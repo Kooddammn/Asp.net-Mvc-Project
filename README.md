@@ -1,5 +1,5 @@
 # Travel Agency Software Solution
-CRM, Ticketing, Billing, Accounts &amp; Payroll software for Retail &amp; Business Travel Agencies.
+Basic Idea behind the Project: The travel agencies have to manage a lot of cars/buses with the details of drivers and a lot of passengers. So, managing this data manually is a tedious task. The Cab Management System is a web-based solution for this manual tedious work and helps the agencies manage the data very easily.
 
 # The application consists of:
 <ul>
@@ -12,8 +12,7 @@ CRM, Ticketing, Billing, Accounts &amp; Payroll software for Retail &amp; Busine
     <li>Banking</li>
 </ul>
 
-# NOTES
-The application is currently under development, and we are looking for sponsors who can sponsor this application in all platforms in order to be launched into the market for retail travel agencies and also business travel agencies. We are putting a lot of effort in order to put all aspects of business into it. Since we are working as voluntarily in this application, progress can be a little slow. The application is currently using all open source technologies, starting from templates, plugins, nuget packages and others.
+
 
 # MIT LICENSE
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
