@@ -13,14 +13,4 @@ This project is a web-based application to handle a variety of branches and depa
     4.Travel Module: This module requires a travel manager to log in using the required credentials. The options available to the travel manager should be like                 allotting the routes to the drivers, allotting the cars to the drivers, estimating the travel cost for a journey, etc. Vehicle maintenance can also be done by           the travel manager only.</li>
   
 
-# The application consists of:
-<ul>
-    <li>CRM - Customer Management, Billing.</li>
-    <li>Ticketing - Amadeus, Gallelio, Sabre</li>
-    <li>Accounting</li>
-    <li>Custom Services Billing</li>
-    <li>Accounting</li>
-    <li>Reporting</li>
-    <li>Banking</li>
-</ul>
 
