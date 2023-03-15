@@ -1,9 +1,16 @@
 # Travel Agency Software Solution
 Basic Idea behind the Project: The travel agencies have to manage a lot of cars/buses with the details of drivers and a lot of passengers. So, managing this data manually is a tedious task. The Cab Management System is a web-based solution for this manual tedious work and helps the agencies manage the data very easily.
 
-1.Administration Module: The admin can enter the application using the login credentials and have complete control over the application. The admin can have various functionalities like adding some latest topics of discussion, updating the policies of the discussion forum, etc. The admin also should have the access to delete a discussion post if the admin finds it inappropriate. Also, the admin can delete the account of users who he/she might find inappropriate.
+# Project Description:
+This project is a web-based application to handle a variety of branches and departmental work for a particular car agency. The aim of the project is to provide the best car services to the clients of the car agency. The following are the functionalities of the project (project modules):
+<ol>
+    <li>Administration Department: Again, this project is also designed solely for the administration side. The admin has to log in first via a valid e-mail ID and               password     and also the option to change the password should be provided. The admin should be given the option to add as many managers as he/she wants to.             Admin should have         full access to add, delete or modify manager records.
 
-2.User module: The user also has to log in via valid credentials. However, the user should not have that much control over the application. Users should be able to add a question, leave a like on a discussion post, and comment his/her own answer. Users can also be given the feature to report another user and the admin can then look over it.
+    <li>Finance Module: The finance manager is required to log in to the application via the credentials and the manager should also be given the option to change the           password. All the financial tasks such as updating the vehicle billing details, payments, etc. should be done by the finance manager.
+
+    <li>HR module: This module requires a Human Resource Manager to log in using the credentials. The HR manager should get all the options to add, remove, and edit the          details of the employees. There can be various employees in the car agency like receptionists, drivers, cleaners, etc.
+
+    <li>Travel Module: This module requires a travel manager to log in using the required credentials. The options available to the travel manager should be like                 allotting the routes to the drivers, allotting the cars to the drivers, estimating the travel cost for a journey, etc. Vehicle maintenance can also be done by           the travel manager only.
 
 # The application consists of:
 <ul>
